@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kauto.iml" filepath="$PROJECT_DIR$/.idea/modules/kauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kauto_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kauto_main.iml" group="kauto" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kauto_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kauto_test.iml" group="kauto" />
+    </modules>
+  </component>
+</project>
