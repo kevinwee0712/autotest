@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mkolisnyk:cucumber-reports:1.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mkolisnyk/cucumber-reports/1.0.7/3490d8df648efb9d3350b8da4b35bfaa03f3fe56/cucumber-reports-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mkolisnyk/cucumber-reports/1.0.7/d643936ae81cd820852cddc6ef0148d5bf69cee6/cucumber-reports-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
